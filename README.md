@@ -25,9 +25,9 @@ Guests can register, log in, search for available rooms by date and preferences,
 |---|---|---|
 | ![Home](screenshots/web-home.png) | ![Search](screenshots/web-search.png) | ![Available](screenshots/web-available.png) |
 
-| Login | My Reservations |
-|---|---|
-| ![Login](screenshots/web-login.png) | ![Reservations](screenshots/web-reservations.png) |
+| Login | Room List | My Reservations |
+|---|---|---|
+| ![Login](screenshots/web-login.png) | ![Rooms](screenshots/web-rooms.png) | ![Reservations](screenshots/web-reservations.png) |
 
 ---
 
